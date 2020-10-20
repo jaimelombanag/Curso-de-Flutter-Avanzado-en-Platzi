@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/jaimelombana/Documents/JaimeLombana/Flutter/Platzi/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/anahisalgado/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/6e66152a04e3f7fa7f1faae521857d66/res/values-watch-v20/values.xml",
+                    "source": "/Users/jaimelombana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/71ff17cd7e52716db737b9f70402be98/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
